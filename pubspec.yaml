@@ -79,11 +79,11 @@ flutter:
        fonts:
          - asset: assets/fonts/GemunuLibre-Bold.ttf
            style: italic
-           weight: 700
+
      - family: Semi-Bold
        fonts:
          - asset: assets/fonts/GemunuLibre-SemiBold.ttf
-           weight: 700
+
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
